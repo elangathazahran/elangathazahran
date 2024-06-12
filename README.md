@@ -1,3 +1,5 @@
+<img width="100%" height="auto" style="object-fit: cover;" alt="coding" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <h1 align="center">Hi 👋, I'm Elang Atha Zaharn</h1>
 <h3 align="center">I 'am Frontend Developer From Indonesia</h3>
 
@@ -15,9 +17,7 @@
       <li>⚡ Fun fact <strong>I Am Funny</strong></li>
     </ul>
   </div>
-  <div>
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="width: 100%; max-height: 200px;" />
-  </div>
+  <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" max-width="200px" height="300" style="object-fit: contain; border-radius: 7px; margin: 0 30px;" alt="coding">
 </div>
 
 <h3 align="left">Connect with me:</h3>
