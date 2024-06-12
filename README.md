@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elang Atha Zaharn</h1>
 <h3 align="center">I 'am Frontend Developer From Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" /> </p>
 
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+gif&simid=607996541878499692&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=15&itb=0&ajaxhist=0&ajaxserp=0" align="right" </img>
+<img src="https://bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+gif&simid=607996541878499692&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=15&itb=0&ajaxhist=0&ajaxserp=0" alt="image coding">
 
-- 🌱 I’m currently learning **React Js**
+
+
+- 🌱 I'm currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://athazahrane.github.io/my-portfolio.github.io/](https://athazahrane.github.io/my-portfolio.github.io/)
 
