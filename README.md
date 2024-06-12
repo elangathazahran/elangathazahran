@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Elang Atha Zaharn</h1>
 <h3 align="center">I 'am Frontend Developer From Indonesia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" />
+</p>
 
-<img src="https://bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+gif&simid=607996541878499692&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=15&itb=0&ajaxhist=0&ajaxserp=0" alt="image coding">
-
-
-
-- 🌱 I'm currently learning **React Js**
-
-- 👨‍💻 All of my projects are available at [https://athazahrane.github.io/my-portfolio.github.io/](https://athazahrane.github.io/my-portfolio.github.io/)
-
-- 💬 Ask me about **React, Javascript**
-
-- 📫 How to reach me **athazahrane@gmail.com**
-
-- ⚡ Fun fact **I Am Funny**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>🌱 I'm currently learning <strong>React Js</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://athazahrane.github.io/my-portfolio.github.io/">My Portfolio</a></li>
+      <li>💬 Ask me about <strong>React, Javascript</strong></li>
+      <li>📫 How to reach me <strong>athazahrane@gmail.com</strong></li>
+      <li>⚡ Fun fact <strong>I Am Funny</strong></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="max-width: 100px; margin-left: 20px;" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
