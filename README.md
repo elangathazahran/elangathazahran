@@ -16,7 +16,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="width: 100%;" />
+    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="width: 100%; max-height: 200px;" />
   </div>
 </div>
 
