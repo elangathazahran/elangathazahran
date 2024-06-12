@@ -16,8 +16,8 @@
       <li>📫 How to reach me <strong>athazahrane@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I Am Funny</strong></li>
   </ul>
-  <img  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" max-width="200px" height="300" 
-       style="object-fit: contain; border-radius: 7px; margin: 0 30px; overflow: hidden;" alt="coding">
+<!--   <img  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" max-width="200px" height="300" 
+       style="object-fit: contain; border-radius: 7px; margin: 0 30px; overflow: hidden;" alt="coding"> -->
 </div>
 
 <h3 align="left">Connect with me:</h3>
