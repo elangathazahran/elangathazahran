@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elang Atha Zaharn</h1>
 <h3 align="center">I 'am Frontend Developer From Indonesia</h3>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" />
 </p>
@@ -15,7 +16,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="max-width: 100px; margin-left: 20px;" />
+    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="image coding" style="width: 100%;" />
   </div>
 </div>
 
