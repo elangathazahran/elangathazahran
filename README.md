@@ -7,15 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div>
-    <ul>
       <li>🌱 I'm currently learning <strong>React Js</strong></li>
       <li>👨‍💻 All of my projects are available at <a href="https://athazahrane.github.io/my-portfolio.github.io/">My Portfolio</a></li>
       <li>💬 Ask me about <strong>React, Javascript</strong></li>
       <li>📫 How to reach me <strong>athazahrane@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I Am Funny</strong></li>
-    </ul>
   </div>
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" max-width="200px" height="300" style="object-fit: contain; border-radius: 7px; margin: 0 30px; overflow: hidden;" alt="coding">
 </div>
