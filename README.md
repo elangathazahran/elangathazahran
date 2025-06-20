@@ -54,14 +54,14 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elangathazahran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangathazahran&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=elangathazahran&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
 
