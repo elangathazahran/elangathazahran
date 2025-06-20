@@ -106,19 +106,19 @@ I thrive in team environments where collaboration and continuous learning are ke
 ## 🌐 **Connect With Me**
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/elang-atha-zahran-100459220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a target="_blank" href="https://www.linkedin.com/in/elang-atha-zahran-100459220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ target="_blank">
   </a>
-  <a target="_blank" href="mailto:athazahranel@gmail.com">
+  <a target="_blank" href="mailto:athazahranel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://twitter.com/yourhandle">
+  <a target="_blank" href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://flask-portfolio-production-c2ab.up.railway.app/">
+  <a target="_blank" href="https://flask-portfolio-production-c2ab.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/zaayeenn_/">
+  <a target="_blank" href="https://www.instagram.com/zaayeenn_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
