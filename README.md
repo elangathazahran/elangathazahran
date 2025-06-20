@@ -5,22 +5,24 @@
 <h1 align="center">✨ Welcome to My GitHub Universe! ✨</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%26+React+Specialist;Web+Development+Enthusiast;Problem+Solver;Continuous+Learner+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%26+React+Specialist;Clean+Code+Advocate;Problem+Solver;Continuous+Learner+%3A)" alt="Typing SVG" /></a>
 </p>
 
 ---
-
-## 🚀 **About Me**
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right"/>
 </div>
 
-- 🔭 Currently building **awesome web applications**
-- 🌱 Mastering **Next.js and advanced React patterns**
-- 👯 Looking to collaborate on **open-source Laravel/React projects**
-- 💬 Ask me about **web development or tech career advice**
-- ⚡ Fun fact: **I can type 80+ WPM while drinking coffee**
+I'm a passionate Fullstack Web Developer specializing in building scalable, responsive, and user-friendly web applications. I work with a modern tech stack including HTML5, CSS3, Bootstrap 5, JavaScript, PHP, Laravel, React.js, Python, and Flask. I take pride in writing clean, efficient code and creating seamless user experiences.
+
+I thrive in team environments where collaboration and continuous learning are key. Keeping up with the latest technologies and best practices is part of my daily routine, ensuring that the solutions I develop are not only functional but also future-ready. Whether it's front-end design or back-end logic, I enjoy bringing ideas to life through code and solving real-world problems with smart digital solutions.
+
+- 🔭 Currently building **innovative web solutions**
+- 🌱 Mastering **advanced React patterns and microservices**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **web development best practices**
+- ⚡ Fun fact: **I can solve coding problems while sleeping!**
 
 ---
 
@@ -69,6 +71,14 @@
 
 ---
 
+## 🏆 **GitHub Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elangathazahran&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🎨 **Featured Projects**
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
@@ -102,6 +112,12 @@
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://flask-portfolio-production-c2ab.up.railway.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+  <a href="https://www.instagram.com/zaayeenn_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://flask-portfolio-production-c2ab.up.railway.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
