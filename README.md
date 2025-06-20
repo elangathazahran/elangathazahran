@@ -72,9 +72,8 @@
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elangathazahran&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elangathazahran&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🎨 **Featured Projects**
@@ -121,5 +120,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="150"/>
   <p>Thanks for visiting! ❤️</p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=elangathazahran&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
 </div>
