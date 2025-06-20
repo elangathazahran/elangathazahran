@@ -69,13 +69,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elangathazahran&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
----
-
 ## 🎨 **Featured Projects**
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
