@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width: 100%;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 100%; object-fit: cover;"/>
 </div>
 
