@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47and826h3relm2a23ojr8cfjbv67r8xu4mg5z52r1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 100%; object-fit: cover;"/>
 </div>
 
 <h1 align="center">✨ Welcome to My GitHub Universe! ✨</h1>
@@ -13,7 +13,7 @@
 ## 🚀 **About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFoM3B6bGp6eGJ5b2VtY3RjZ3V4dWl4N2RnbjZ0eGJ5d2VvY3JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
 </div>
 
 I'm a passionate Fullstack Web Developer specializing in building scalable, responsive, and user-friendly web applications. I work with a modern tech stack including HTML5, CSS3, Bootstrap 5, JavaScript, PHP, Laravel, React.js, Python, and Flask. I take pride in writing clean, efficient code and creating seamless user experiences.
