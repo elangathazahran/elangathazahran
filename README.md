@@ -79,11 +79,8 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elangathazahran/elangathazahran/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
+## 🐍 **My Contribution Graph Snake**
+![Contribution Snake](https://github.com/elangathazahran/elangathazahran/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
