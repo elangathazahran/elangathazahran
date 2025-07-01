@@ -62,32 +62,27 @@ I thrive in team environments where collaboration and continuous learning are ke
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elangathazahran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangathazahran&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaayeenn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaayeenn&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=elangathazahran&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=zaayeenn&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elangathazahran&theme=dracula" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaayeenn&theme=dracula" width="90%"/>
 </div>
-
----
-
-## 🐍 **My Contribution Graph Snake**
-![Snake animation](https://github.com/elangathazahran/elangathazahran/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elangathazahran&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zaayeenn&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -140,5 +135,5 @@ I thrive in team environments where collaboration and continuous learning are ke
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="150"/>
   <p>Thanks for visiting! ❤️</p>
-  <img src="https://komarev.com/ghpvc/?username=elangathazahran&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=zaayeenn&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
 </div>
